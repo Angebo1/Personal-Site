@@ -42,7 +42,13 @@ a:hover{
   color: #f0efef;
 }
 /********************CLASS SELECTORS******************/
-
+.emoji{
+  width:100px;
+  height:auto;
+  margin: 10px auto;
+  position: fixed;
+  left: 10px;
+}
 .top-container{
   background-color: #ff6464;
   padding-top: 100px;
@@ -132,6 +138,20 @@ a:hover{
   padding: 20px 0;
 }
 
+.projects-container{
+  margin:100px auto;
+}
+
+
+.imgs{
+  margin: auto;
+}
+
+.projectImgs{
+  width: 350px;
+  border-radius: 30px;
+  padding: 10px;
+}
 /*********************************************************/
 
 #cloud1{
